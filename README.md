@@ -69,7 +69,7 @@ MongoDB installed locally or a MongoDB Atlas URI.
 
 1. Clone the Repository
 
-git clone [https://github.com/DineshReddyTech/expense-tracker.git](https://github.com/DineshReddyTech/expense-tracker.git)
+git clone [https://github.com/DineshReddyTech/xpense-tracker.git](https://github.com/DineshReddyTech/Xpense-tracker.git)
 cd expense-tracker
 
 
